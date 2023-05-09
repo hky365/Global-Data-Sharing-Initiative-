@@ -16,15 +16,16 @@ The project collected, processed, and analyzed data related to COVID-19 and its 
 
 ## Repository Contents
 
-- `anonymization/`: Scripts for data anonymization and preprocessing
+- `k_anonymity_and_l_diversity.py`: Script for application of K anonymity and l-diversity
+- `move_date_time.py`: Script for moving dates by a time delta to ensure data privacy
 
 ## Data Acquisition
 
-The data used in this project is hosted in a separate repository. Please refer to this particular {to_be_added} respository to access and use the data.
+The data used in this project is hosted in a separate repository. Please refer to this particular (https://github.com/MS-DATA-ALLIANCE/COVID19-GDSI2021) respository to access and use the data.
 
 ## Contributing
 
-We welcome contributions from the community! Please read the `contributing.md` file for guidelines on how to contribute to the project. You can contribute by:
+We welcome contributions from the community! You can contribute by:
 
 - Reporting issues or suggesting improvements
 - Contributing to the codebase or documentation
