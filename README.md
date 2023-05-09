@@ -44,8 +44,6 @@ If you find a bug or have a suggestion for improvement, please create an issue u
 
 We are committed to providing a welcoming and inclusive environment for all contributors. Please be respectful and considerate of others, and help us maintain a positive and collaborative community.
 
-By participating in this project, you are expected to follow our Code of Conduct, which outlines our expectations for behavior and helps ensure a safe and welcoming environment for all contributors.
-
 Thank you for your interest in contributing to the COVID-19 and MS Global Data Sharing Initiative!
 
 ## Acknowledgments
