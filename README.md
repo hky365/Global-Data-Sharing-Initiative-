@@ -19,6 +19,7 @@ The project collected, processed, and analyzed data related to COVID-19 and its 
 - `k_anonymity_and_l_diversity.py`: Script for application of K anonymity and l-diversity
 - `move_date_time.py`: Script for moving dates by a time delta to ensure data privacy
 - `chi_2_test.py`: Script for applying chi_squared_test on the data
+- `requirements.txt`: List of libraries used
 
 ## Data Acquisition
 
