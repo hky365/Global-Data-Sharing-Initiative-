@@ -20,6 +20,7 @@ The project collected, processed, and analyzed data related to COVID-19 and its 
 - `move_date_time.py`: Script for moving dates by a time delta to ensure data privacy
 - `chi_2_test.py`: Script for applying chi_squared_test on the data
 - `requirements.txt`: List of libraries used
+- `License`: License
 
 ## Data Acquisition
 
@@ -32,9 +33,6 @@ We welcome contributions from the community! You can contribute by:
 - Reporting issues or suggesting improvements
 - Contributing to the codebase or documentation
 
-## License
-
-This project is licensed under the "Creative Commons Attribution-ShareAlike4.0 International Public License".
 
 ## Reporting Issues or Suggestions
 
