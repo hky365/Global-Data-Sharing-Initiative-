@@ -24,7 +24,12 @@ The project collected, processed, and analyzed data related to COVID-19 and its 
 
 ## Data Acquisition
 
-The data used in this project is hosted in a separate repository. Please refer to this particular (https://github.com/MS-DATA-ALLIANCE/COVID19-GDSI2021) respository to access and use the data.
+The data used in this project is hosted in PhysioNet repository, the details of which are given below:
+
+When using this data resource, please cite:
+Khan, H., Geys, L., baneke, p., Comi, G., & Peeters, L. (2023). Patient-level dataset to study the effect of COVID-19 in people with Multiple Sclerosis (version 1.0.0). PhysioNet. https://doi.org/10.13026/feem-fn23.
+
+For further information on the project, kindly refer to this particular (https://github.com/MS-DATA-ALLIANCE/COVID19-GDSI2021) respository.
 
 ## Contributing
 
